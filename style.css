@@ -8,6 +8,7 @@ body{
     color: orange;
 } 
 section {display: flex ;
+    margin-bottom: 100px;
 
 
 } .half-width {
@@ -26,4 +27,7 @@ font-weight: 700;
 } .banner{ 
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+} .day-dreamer{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;background-position: right;
 }
